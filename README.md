@@ -8,6 +8,6 @@ In the same folder
 4. Target ligand(s) (in folder Ligand)
 
 Misc tools for QOL
-result.bash - Sorts complete and incomplete results
-dlg.bash - Summarize output based on the lowest mean binding energy
+1. result.bash - Sorts complete and incomplete results
+2. dlg.bash - Summarize output based on the lowest mean binding energy
 
